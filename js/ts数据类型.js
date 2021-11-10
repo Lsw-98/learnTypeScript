@@ -13,6 +13,7 @@
 var boo = true;
 // boo = 1   报错
 boo = false;
+console.log(boo);
 var bum = 123;
 console.log(bum);
 var str = '你好';
@@ -44,6 +45,8 @@ console.log(temp);
 var a = 123;
 console.log(a);
 a = '你好';
+console.log(a);
+a = true;
 console.log(a);
 // null和undefined
 var temp2;

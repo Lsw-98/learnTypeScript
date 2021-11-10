@@ -15,6 +15,7 @@ let boo: boolean = true
 
 // boo = 1   报错
 boo = false
+console.log(boo)
 
 let bum: number = 123
 console.log(bum)
@@ -53,6 +54,8 @@ console.log(temp)
 let a: any = 123
 console.log(a)
 a = '你好'
+console.log(a)
+a = true
 console.log(a)
 
 // null和undefined
